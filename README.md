@@ -1,6 +1,9 @@
 ### Hi there 👋, I'm Gustavo (a.k.a gpavelar) !
 
-Programming language usage: [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpavelar&layout=compact&theme=green)](https://github.com/gpavelar/)
+
+
+## Programming languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpavelar&layout=compact&theme=green)](https://github.com/gpavelar/)
 
 <!--
 
