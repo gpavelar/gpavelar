@@ -5,6 +5,7 @@
 ## Programming languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpavelar&layout=compact&theme=green)](https://github.com/gpavelar/)
 
+- I am proud of collaborating on LEMONADE project.
 <!--
 
 - I'm proud for collaborating on LEMONADE project.
