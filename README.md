@@ -1,27 +1,24 @@
-### Hi there 👋, I'm Gustavo (a.k.a gpavelar) !
+## Gustavo de Paula Avelar
 
+Senior software engineer at [Envato](https://envato.com) in Melbourne, working on
+search. I came to it through data engineering and research: distributed data
+platforms and clustering at scale on Spark and Hadoop at UFV, then a master's at
+UFMG on anomaly detection with ensembles.
 
+Publications and background at **[gpavelar.github.io](https://gpavelar.github.io/)**.
 
+### Building
 
+**[Loadstone](https://github.com/gpavelar/loadstone-engineering-assistant)** is an
+engineering assistant built on Rails and Claude. Slash-command skills pull context
+from Jira, GitHub, Slack and Confluence, and background investigations run through
+the Claude Code CLI so an agent can explore real repositories. Apache 2.0.
 
-- I am proud of collaborating on LEMONADE project.
-<!--
+### Research
 
-## Programming languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpavelar&layout=compact&theme=green)](https://github.com/gpavelar/)
+Four peer-reviewed papers on distributed analytics platforms, scalable text
+clustering, and anomaly-detection ensembles. The one I'm most proud of is
+[Lemonade](https://doi.org/10.14778/3229863.3236262), a Spark-based analytics
+platform built in the EuBra-BIGSEA collaboration and demoed at VLDB 2018.
 
-- I'm proud for collaborating on LEMONADE project.
-
-**gpavelar/gpavelar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Full list →](https://gpavelar.github.io/#publications)
